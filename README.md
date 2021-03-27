@@ -1,4 +1,4 @@
 # myCalculator
- Calculator App
+ Calculator App Console
 
 #enjoy #vizchamz
